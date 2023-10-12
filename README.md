@@ -1,4 +1,4 @@
-# Azure Virtual Machine Network Inspection Project
+# Azure Virtual Machine Network Inception Project
 
 This project guides you in setting up two Virtual Machines (VMs) within the same network using Azure and inspecting network traffic between the two machines using Wireshark.
 
